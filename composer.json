@@ -1,0 +1,16 @@
+{
+    "name": "alpsalcioglu/workopia",
+    "description": "Job Listing Application",
+    "authors": [
+        {
+            "name": "Alp Salcioglu",
+            "email": "alpsalcioglu10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
